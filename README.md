@@ -1,2 +1,14 @@
 # indie-writer-digital-handbook
-A practical handbook and checklist for new writers on digital publishing, building a portfolio, and reaching readers.
+A# 📚 नवशिक्या लेखकांसाठी डिजिटल पब्लिशिंग हँडबुक
+
+आपल्या कथा, लेख किंवा कादंबऱ्या फक्त वहीत किंवा ड्राफ्टमध्ये न ठेवता वाचकांपर्यंत कसे पोहोचवायचे, स्वतःचा डिजिटल पोर्टफोलिओ कसा तयार करायचा आणि नियमितपणे कसे लिहायचे याचा हा व्यावहारिक मार्गदर्शक आहे.
+
+## 📂 या हँडबुकमध्ये काय आहे?
+* **लेखन सवय आणि पब्लिशिंग चेकलिस्ट (`handbook/publishing-checklist.md`):** लिहिण्यापासून ते प्रकाशित करण्यापर्यंतचे सोपे टप्पे.
+
+## 🎯 उद्देश
+नव्याने लिहायला सुरुवात करणाऱ्या लेखकांना डिजिटल जगात आत्मविश्वासाने पाऊल टाकायला आणि आपला स्वतंत्र वाचकवर्ग तयार करायला मदत करणे.
+
+---
+✍️ **संकलन:** प्रशांत विलास घाणेकर | [माझा पोर्टफोलिओ पहा](https://prashantg-star.github.io/)
+ practical handbook and checklist for new writers on digital publishing, building a portfolio, and reaching readers.
